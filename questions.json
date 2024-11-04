@@ -1,0 +1,82 @@
+[
+    {
+        "question": "La masa de la salteña contiene colorante",
+        "options": ["Sí, es parte de sus ingredientes", "No, la masa solo se pinta posteriormente"],
+        "answer": "Sí, es parte de sus ingredientes"
+    },
+    {
+        "question": "¿Qué es una salteña?",
+        "options": ["Es un modismo boliviano", "Es una empanada boliviana a base de carne, cuyo componente principal es el jigote", "Es una persona que viene de Salta", "Es una comida Argentina"],
+        "answer": "Es un modismo boliviano"
+    },
+    {
+        "question": "Según la NB 329006, ¿Cuáles son los requisitos para la elaboración del jigote de la salteña?",
+        "options": ["Que tenga una buena consistencia, conservado a una temperatura de 4 °C", "Que tenga mucho caldo para que la salteña sea jugosa", "Se mezclan todos los ingredientes frescos y bien conservados dentro de la masa de la salteña para ser cocido a temperatura mayor de 200°C", "Que sea guardado por 24 h antes de su uso dentro de la salteña"],
+        "answer": "Que tenga una buena consistencia, conservado a una temperatura de 4 °C"
+    },
+    {
+        "question": "Según la NB 329006, ¿cuál es el peso promedio que debe tener una salteña?",
+        "options": ["Menos de 100 gramos", "Entre 120 y 160 gramos", "No hay restricción de peso", "Entre 200 y 300 gramos"],
+        "answer": "Menos de 100 gramos"
+    },
+    {
+        "question": "¿Cuáles son los componentes del jigote?",
+        "options": ["Ají y papa con algo de carne", "Charque, ahogado y aceituna", "Carne, hortalizas, especias y condimentos", "Pollo y condimentos"],
+        "answer": "Ají y papa con algo de carne"
+    },
+    {
+        "question": "El/La que sabe comer una salteña sin hacer \"chorrear\" el caldo y sin hacer ruido sabe besar",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Para utilizar charque en una salteña, este NO tiene que ser lavado",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿Qué tipos de contaminación cruzada existen que puedan dañar nuestra salteña?",
+        "options": ["Todas las especificadas", "Por microorganismos y patógenos", "Contaminación alimenticia y por toxicidad", "Contaminación cruzada directa e indirecta"],
+        "answer": "Todas las especificadas"
+    },
+    {
+        "question": "¿Qué es lo más importante para evitar la contaminación cruzada en la preparación de salteñas?",
+        "options": ["Cocinar a fuego alto", "Usar ingredientes frescos", "Evitar que los alimentos crudos entren en contacto con los alimentos cocidos", "Mantener las manos secas"],
+        "answer": "Cocinar a fuego alto"
+    },
+    {
+        "question": "La tucumana es similar a la salteña pero no es cocida en aceite",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿Cuándo se considera que una salteña está contaminada?",
+        "options": ["Cuando la salteña no está correctamente cocida", "Cuando hay presencia de sustancias extrañas a la composición normal y causan enfermedad al consumirlas", "Cuando el caldo se sale de la salteña", "Cuando tiene aceitunas en el relleno"],
+        "answer": "Cuando la salteña no está correctamente cocida"
+    },
+    {
+        "question": "Si aplicamos Buenas Prácticas de Fabricación (BPF) a la elaboración de las salteñas, ¿Qué resultados se pueden esperar?",
+        "options": ["Salteñas inocuas y aptas para el consumo humano", "Producción de más salteñas", "Salteñerías multinacionales", "Reducción de los costos de fabricación de salteñas"],
+        "answer": "Salteñas inocuas y aptas para el consumo humano"
+    },
+    {
+        "question": "La temperatura a la que debe conservarse una salteña es de:",
+        "options": ["40 °C", "37,5 °C", "25 °C", "60 °C"],
+        "answer": "40 °C"
+    },
+    {
+        "question": "¿Qué es el caldo de la salteña?",
+        "options": ["Líquido del cocimiento de la carne, verduras, especias y condimentos", "Es el jugo obtenido por alimentos como el plátano, papa molida, arroz, yuca y otros similares", "Es la mezcla del jigote y masa de la salteña", "Líquido obtenido del aceite o manteca vegetal"],
+        "answer": "Líquido del cocimiento de la carne, verduras, especias y condimentos"
+    },
+    {
+        "question": "Si organizas un evento con muchas salteñas, ¿Cuál de estos consejos ayudaría a mantenerlas seguras durante todo el día?",
+        "options": ["Calentarlas varias veces", "Conservarlas a una temperatura adecuada", "Dejarlas a temperatura ambiente", "Mantenerlas en un lugar fresco"],
+        "answer": "Calentarlas varias veces"
+    },
+    {
+        "question": "Según la norma, ¿cómo deben conservarse la harina, azúcar, sal y productos similares para elaborar salteñas?",
+        "options": ["No requieren cuidados especiales de conservación", "En el refrigerador", "En recipientes cubiertos para evitar humedad y contaminación", "En bolsas plásticas cerradas herméticamente"],
+        "answer": "No requieren cuidados especiales de conservación"
+    }
+]

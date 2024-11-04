@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrenamiento de Velocidad</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Pantalla de inicio -->
+    <div id="start-screen">
+        <h1>Quiz de Entrenamiento</h1>
+        <button onclick="loadQuestions()">Comenzar</button>
+    </div>
+
+    <!-- Pantalla del cuestionario -->
+    <div id="quiz-screen" style="display: none;">
+        <div id="questions-container"></div>
+        <button id="finish-button" onclick="finishQuiz()">Finalizar</button>
+    </div>
+
+    <!-- Pantalla de resultados -->
+    <div id="result-screen" style="display: none;">
+        <h2>Resultados</h2>
+        <div id="result-container"></div>
+        <button onclick="restartQuiz()">Reiniciar</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
